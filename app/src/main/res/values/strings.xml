@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name"><b>Kaloriku</b></string>
+    <string name="judul"><b>Hitung BMR, Kebutuhan Kalori Sehari, dan Berat Badan Ideal</b></string>
+    <string name="bmr_intro"><b>Basal Metabolic Rate (BMR)</b> adalah kalori yang tubuh Anda perlukan <b>hanya</b> untuk melakukan aktivitas dasar tubuh. Aktivitas tersebut mencakup memompa jantung, mencerna makanan, bernapas, memperbaiki sel tubuh, hingga membuang racun dalam tubuh.</string>
+    <string name="usia">Usia (tahun)</string>
+    <string name="tinggi_badan">Tinggi Badan (cm)</string>
+    <string name="berat_badan">Berat Badan (kg)</string>
+    <string name="pria">Laki-laki</string>
+    <string name="wanita">Perempuan</string>
+    <string name="submit">HITUNG</string>
+    <string name="reset">RESET</string>
+    <string name="gender_invalid">Pilih jenis kelamin Anda!</string>
+    <string name="usia_invalid">Usia tidak boleh kosong</string>
+    <string name="tinggi_invalid">Tinggi badan tidak boleh kosong</string>
+    <string name="berat_invalid">Berat badan tidak boleh kosong</string>
+    <string name="aktivitas_invalid">Pilih tipe aktivitas Anda!</string>
+    <string name="bmr_result">BMR: %1$.2f kkal/hari</string>
+    <string name="kalori_aktivitas_result">Kebutuhan kalori sehari: %1$.2f kkal/hari</string>
+    <string name="berat_ideal_result">Berat badan ideal: %1$.2f kg</string>
+    <string-array name="activities_array">
+        <item>Pilih tipe aktivitas Anda!</item>
+        <item>Hampir tidak pernah berolahraga</item>
+        <item>Jarang berolahraga</item>
+        <item>Sering berolahraga atau beraktivitas fisik berat</item>
+    </string-array>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Kaloriku adalah aplikasi yang berguna untuk menghitung tiga hal, di antaranya yaitu BMR (Basal Metabolic Rate), kebutuhan kalori sehari, dan berat badan ideal manusia\n\nAplikasi ini diibuat untuk kebutuhan mata kuliah Pemrograman untuk Perangkat Bergerak 1.\n\nCopyright © 2022 Ardian Adam Alfarisyi.\nAll rights reserved.</string>
+
+    <string name="bagikan">Bagikan</string>
+
+    <string name="bagikan_template">Berat badan: %1$s kg\nTinggi badan: %2$s cm\nJenis kelamin: %3$s\n\n%4$s\n%5$s\n%6$s</string>
+
+    <string name="belum_ada_data">Belum ada data</string>
+
+    <string name="histori">Histori</string>
+
+    <string name="hasil_x">BMR: %1$.2f | BMR Aktivitas: %2$.2f | Berat Ideal: %3$.2f</string>
+    <string name="data_x">BB: %1$.1f kg - TB: %2$.1f cm | %3$s</string>
+
+    <string name="hapus_histori">Hapus Histori</string>
+
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+
+    <string name="action_switch_layout">Ubah Layout</string>
+
+    <string name="lainnya">Lainnya</string>
+
+    <string name="message">%1$s diklik!</string>
+
+    <string name="koneksi_error">Koneksi error</string>
+
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data hewan otomatis</string>
+
+    <string name="notif_title">Ada notifikasi baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
+</resources>
